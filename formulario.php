@@ -11,6 +11,7 @@
 			<input type="text" name="unidad"><br />
 			<label for="opciones">Convertir de:</label>
 			<select name="opciones" id="opciones">
+			<option selected>Seleccione una opción</option>
 			 <option value="var1">mililitros a onzas fluidas</option>
 			 <option value="var2">metros a yardas</option>
 			 <option value="var3">gramos a libras</option>
@@ -20,10 +21,9 @@
 			</select>
 			<br />
 			<input type="submit" value="Convertir">
-		<!-- 	<br /> -->
-		<!-- 	<br /> -->
-		<!-- 	<label for="resultado">Resultado:</label> -->
-		<!-- 	<input type="text" name="resultado"><br /> -->
+		 	<br /> 
+		 	<br /> 
+		 	<label for="resultado">Resultado:</label>
 		</form>
 	</body>
   
