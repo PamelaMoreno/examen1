@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 	</head>
 	<body>
+		<a href="index.php">Página principal</a>
 		<p>Para realizar una conversión 
 		favor de ingresar los siguientes datos: </p>
 		<form name="formulario" action="converter.php" method="post">
@@ -22,9 +23,8 @@
 			<br />
 			<input type="submit" value="Convertir">
 		 	<br /> 
-		 	<br /> 
-		 	<label for="resultado">Resultado:</label>
+			<br />
+			<label for="resultado">Resultado: </label>
 		</form>
 	</body>
-  
  </html>

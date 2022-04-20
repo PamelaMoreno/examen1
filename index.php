@@ -17,6 +17,8 @@
 		territorios de habla inglesa.</p>
 		<br />
 		<a href="formulario.php">Realizar conversiones</a>
+		<br />
+		<a href="creditos.php">Créditos</a>
 	</body>
   
  </html>

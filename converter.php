@@ -29,6 +29,9 @@ switch ($opciones) {
 	    $resultado = $unidad/26.1405;
 	    echo number_format($resultado, 2, '.', '.')  . " libras esterlinas";
 	    break;
+    default:
+	    echo "Llene los campos solicitados.";
 }
 ?>
+
 
